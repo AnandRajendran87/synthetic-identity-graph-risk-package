@@ -1,0 +1,8 @@
+source,target,relationship
+ID-1002,DEVICE-77,uses_device
+ID-1004,DEVICE-77,uses_device
+ID-1002,ADDR-900,uses_address
+ID-1004,ADDR-900,uses_address
+ID-1002,PHONE-333,uses_phone
+ID-1004,PHONE-333,uses_phone
+ID-1001,DEVICE-12,uses_device

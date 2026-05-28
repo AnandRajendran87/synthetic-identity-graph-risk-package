@@ -1,0 +1,6 @@
+identity_id,shared_device_count,shared_address_count,shared_phone_count,applications_30d,account_age_days,transaction_velocity_24h,graph_centrality_score,community_risk_score,behavioral_anomaly_score,synthetic_fraud_label
+ID-1001,1,1,1,1,420,2,0.05,0.1,0.12,0
+ID-1002,5,4,3,6,15,18,0.82,0.91,0.88,1
+ID-1003,1,1,1,2,365,3,0.08,0.14,0.1,0
+ID-1004,4,5,4,7,22,25,0.75,0.86,0.79,1
+ID-1005,2,1,1,1,210,2,0.12,0.2,0.18,0
